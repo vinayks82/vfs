@@ -4,6 +4,7 @@ Time spent: `<15>`
 
 ### Features
 
+
 #### Required
 
 - [x] Walkthrough Gif embedded in README
@@ -15,9 +16,9 @@ Time spent: `<15>`
 - [x] Client can make POST requests to update the contents of a file
 - [x] Client can make DELETE requests to delete files and folders
 - [x] Server will serve from `--dir` or cwd as root
-- [x] Server will sync `HTTP` modifications over TCP to the Client
-- [x] Server will sync watched file modifications (e.g., `fs.watch`) over TCP to the Client
+- [] Server will sync `HTTP` modifications over TCP to the Client
+- [] Server will sync watched file modifications (e.g., `fs.watch`) over TCP to the Client
 
 Walkthrough Gif:
 
-![Video Walkthrough](embedded_walkthrough.gif)
+
